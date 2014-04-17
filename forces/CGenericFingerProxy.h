@@ -1,0 +1,4 @@
+#ifndef CGenericFingerProxyH
+#define CGenericFingerProxyH
+
+
