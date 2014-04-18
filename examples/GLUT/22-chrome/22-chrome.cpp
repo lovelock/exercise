@@ -26,3 +26,5 @@ int displayH = 0;
 cWorld* world;
 cCamera* camera;
 
+cSpotLight* light;
+
